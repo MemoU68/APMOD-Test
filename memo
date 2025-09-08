@@ -926,7 +926,7 @@ APModFiller.fillerPanel = (fillerStore) => {
 
 APModFiller.store.data = [{
     "field": "employee",
-    "data": "#LOGIN",
+    "data": "memougur",
     "title": "memougur",
     "depth":0,
 },
@@ -934,7 +934,7 @@ APModFiller.store.data = [{
                               "field": "hrswork",
                               "data": "1",
                               "title": "0,5",
-                              "depth":0,
+                              "depth":0,5
                           },
                           {
                               "field": "udfchar13",
